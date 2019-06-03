@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Whats The Weather</string>
+    <string name="title_text_view">Enter the city name</string>
+    <string name="hint">Type here</string>
+    <string name="button_label">What\'s the weather</string>
+</resources>

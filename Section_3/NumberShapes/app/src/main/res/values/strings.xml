@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Number Shapes</string>
+    <string name="header">Enter a number below to find outif it is a triangular number, square number, or both.</string>
+    <string name="button_label">Test Number</string>
+</resources>

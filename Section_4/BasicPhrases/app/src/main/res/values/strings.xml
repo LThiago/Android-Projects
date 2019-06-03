@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basic Phrases</string>
+    <string name="phrase_1">Do you\nspeak English?</string>
+    <string name="phrase_2">Good evening</string>
+    <string name="phrase_3">Hello</string>
+    <string name="phrase_4">How are you?</string>
+    <string name="phrase_5">I live in…</string>
+    <string name="phrase_6">My name is…</string>
+    <string name="phrase_7">Please</string>
+    <string name="phrase_8">Welcome</string>
+</resources>
